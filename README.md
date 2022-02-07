@@ -15,7 +15,7 @@ Business Value of Recommenders<br>
 The business value added by a recommender system depends mainly on the business model. In domains like eCommerce, the effect of a recommender is direct on sales and profits/revenues. <br>
 <br>
 Facts -II<br>
-Lee and Hosanagerinvestigated the impact of recommenders on sales and observed a 35% lift in sales upon utilizing the personalization engines [4].<br>
+Lee and Hosanager investigated the impact of recommenders on sales and observed a 35% lift in sales upon utilizing the personalization engines [4].<br>
 Another evaluation work was presented in [5], and results showed 28% more profit when using a new recommendation than a simple one, besides, the revenue dropped by 17% when no recommenders were used.<br>
 <br>
 <br>
